@@ -27,6 +27,13 @@
 .App-link {
   color: #61dafb;
 }
+.add-game {
+  font-size: 50px;
+}
+.add-game input {
+  font-size: 50px;
+  width: 100px;
+}
 
 @keyframes App-logo-spin {
   from {
